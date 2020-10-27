@@ -2,3 +2,7 @@ test = YUNJUYEON
 GITHUB TEST
 
 파일 내용 변경하기
+
+깃 테스트 하는 중 
+
+kosmo에서 java 공부 중 입니다.
