@@ -6,3 +6,5 @@ GITHUB TEST
 깃 테스트 하는 중 
 
 kosmo에서 java 공부 중 입니다.
+
+git cherry-pick을 해 보겠습니다.
